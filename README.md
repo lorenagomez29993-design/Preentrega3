@@ -45,6 +45,8 @@ Se creó una página denominada **Prueba de Contexto** que contiene:
 - Una tabla con **Producto**, **Total Ventas**, **Margen Bruto %** y **% Ventas sobre Total**.
 - Un segmentador por **Año** conectado a la tabla **Fechas**.
 
+Pre entrega 3
+
 Decisiones de diseño
 Se utilizaron tarjetas para destacar los KPIs principales y facilitar una lectura rápida.
 Se eligió un gráfico de líneas para mostrar la evolución temporal de las ventas.
